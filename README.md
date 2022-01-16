@@ -1,2 +1,2 @@
-# AUTOMATION
 Hand Gesture Based Home Automation for Disabled and Elderly
+The main purpose of this project is to construct a system that can detect and monitor different qualities for objects described using image processing algorithms utilizing a Raspberry Pi and a camera module. The approach was developed using Python, media Pipe [1], and OpenCV [1][2][5] tools, and it was tested on Raspberry Pi with an external Pi camera. The Raspberry Pi delivers a signal to the relay, which controls the associated appliance when the correct gesture is recognized. The fundamental objective of hand gesture recognition systems is to establish communication between human and computer systems for control purposes.
